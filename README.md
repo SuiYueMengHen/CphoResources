@@ -6,3 +6,11 @@
 [[002]质心2022](https://www.123912.com/s/dwatjv-d65Wd?pwd=tVMB)
 
 [[003]量子2024暑假](https://www.123912.com/s/dwatjv-h65Wd?pwd=vNb3)
+
+## Project Status
+
+This repository is maintained as part of SuiYueMengHen's open-source project collection. Issues and suggestions are welcome.
+
+## License
+
+This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
